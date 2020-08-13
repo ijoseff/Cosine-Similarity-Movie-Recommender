@@ -4,6 +4,8 @@ Content Based Recommender System recommends movies similar to the movie user lik
 
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org, and using the IMDB id of the movie in the API, web scrape to get the reviews given by the user in the IMDB site using beautifulsoup4 and performed sentiment analysis on those reviews.
 
+<hr>
+
 ### Similarity Score :
 How does it decide which item is most similar to the item user likes? Here we use the similarity scores.
 
@@ -15,6 +17,8 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 <img src="https://user-images.githubusercontent.com/36665975/70401457-a7530680-1a55-11ea-9158-97d4e8515ca4.png">
 
 More about Cosine Similarity: https://www.machinelearningplus.com/nlp/cosine-similarity/
+
+<hr>
 
 ### Sources of the datasets 
 
