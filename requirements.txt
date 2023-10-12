@@ -4,14 +4,14 @@ Jinja2
 MarkupSafe
 Werkzeug
 numpy
-scipy>
+scipy
 nltk
 scikit-learn
 pandas
 beautifulsoup4
 jsonschema
 tmdbv3api
-lxml=
+lxml
 urllib3
 requests
 pickleshare
