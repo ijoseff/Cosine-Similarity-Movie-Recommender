@@ -2,7 +2,7 @@ Flask
 gunicorn
 Jinja2
 MarkupSafe
-Werkzeug=
+Werkzeug
 numpy
 scipy>
 nltk
